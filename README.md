@@ -62,5 +62,33 @@ Even if there were no hiccups during your interview, you can still use your blog
 
 Blogging is one component of your personal brand. But, unlike having LinkedIn and Twitter accounts, blogging is more involved. Recruiters and hiring managers know this. Ultimately, the level of commitment blogging requires will differentiate you even more from your competition.
 
+## Assignment- Blogging
+
+You should already have a blog set up as you've gone through this program. If you don't, not to worry. You can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog) or any other platforms you prefer. 
+
+For this assignment, you'll still be submitting a Google Doc. Title it ""Your Name" + Blogging." 
+
+In your doc, link to the url of your blog. 
+
+Then link to a blog post you've written that you're proud of. 
+
+Write a brief paragraph explaining why you think this post is so successful. 
+
+**Submit** this assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Blogging”
+
+In the body of your email again include:
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url link to this specific google doc
+
+Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include your blog url.
+
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-blogging'>Careers Blogging</a> on Learn.co and start learning to code for free.</p>
