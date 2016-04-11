@@ -2,7 +2,7 @@
 
 Blogging is another piece of personal branding that can help you land a new opportunity. Maintaining a blog demonstrates that you:
 
-1. Know Your Craft
+1. Know your craft
 
 2. Understand and are passionate about your industry
 
