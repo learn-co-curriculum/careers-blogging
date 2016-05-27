@@ -8,7 +8,7 @@ Blogging is another piece of personal branding that can help you land a new oppo
 
 3. Can communicate through writing 
 
-4. And perhap can even build an audience - suggesting you’re pretty darn likeable!
+4. And perhaps can even build an audience - suggesting you’re pretty darn likeable!
 
 Below we'll discuss the benefits of blogging, how you can get started, and how it relates to your job search. 
 
@@ -93,3 +93,5 @@ Update your Careers Prep Tracker sheet with the date submitted, and for this par
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-blogging'>Careers Blogging</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-blogging'>Blogging</a> on Learn.co and start learning to code for free.</p>
