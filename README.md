@@ -64,33 +64,9 @@ Blogging is one component of your personal brand. But, unlike having LinkedIn an
 
 ## Assignment- Blogging
 
-You should already have a blog set up as you've gone through this program. If you don't, not to worry. You can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog) or any other platforms you prefer. 
+You probably already have a blog set up since it is a requirement of the program. If you dont, you can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog) or you can create a blog right on [Learn!](learn.co/blog). 
 
-For this assignment, you'll still be submitting a Google Doc. Title it ""Your Name" + Blogging." 
-
-In your doc, link to the url of your blog. 
-
-Then link to a blog post you've written that you're proud of. 
-
-Write a brief paragraph explaining why you think this post is so successful. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. 
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Blogging”
-
-In the body of your email again include:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url link to this specific google doc
-
-Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include your blog url.
-
+There is no specific assignment to submit for this lesson, just keep blogging! 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-blogging'>Careers Blogging</a> on Learn.co and start learning to code for free.</p>
 
