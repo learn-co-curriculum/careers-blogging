@@ -62,10 +62,8 @@ Even if there were no hiccups during your interview, you can still use your blog
 
 Blogging is one component of your personal brand. But, unlike having LinkedIn and Twitter accounts, blogging is more involved. Recruiters and hiring managers know this. Ultimately, the level of commitment blogging requires will differentiate you even more from your competition.
 
-## Assignment
-
 You probably already have a blog set up since it is a requirement of the program. If you dont, you can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog) or you can create a blog right on [Learn!](learn.co/blog). 
 
-There is no specific assignment to submit for this lesson, just keep blogging and supporting your learning! 
+Keep blogging and supporting your learning! 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-blogging'>Blogging</a> on Learn.co and start learning to code for free.</p>
