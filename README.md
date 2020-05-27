@@ -1,4 +1,4 @@
-# Blogging 
+# Blogging
 
 Blogging is another piece of personal branding that can help you land a new opportunity. Maintaining a blog demonstrates that you:
 
@@ -8,7 +8,7 @@ Blogging is another piece of personal branding that can help you land a new oppo
 4. Are skilled in writing about the key concepts encompassing your craft
 5. And perhaps can even build an audience — suggesting you’re pretty darn likeable!
 
-Below we'll discuss the benefits of blogging, how you can get started, and how it relates to your job search. 
+Below we'll discuss the benefits of blogging, how you can get started, and how it relates to your job search.
 
 ## The Benefits of Blogging
 
@@ -28,13 +28,13 @@ Blogging also gives you the opportunity to engage with other bloggers, and vice 
 
 ## Key Blogging Habits to Develop
 
-1. **Post often.** The more often you post, the better; it shows employers that you are committed to your craft and your new career path, that you are constantly growing your skill set, and you not only have the 'technical'/specialty skills you learned in your program, but you are able to intelligently communicate about those concepts (all desired traits of 'no brainer' hires!). If an employer checking out your online presence (and they will) sees that you are rarely blogging, it tells them that you’re not dedicated and/or you're not keeping the skills sharp and fresh that you graduated with. It may even indicate to employers that you start things, and don’t keep up with them. (And this is not something you want to convey!). That's **WHY** blogging weekly is a key requirement in the Career Services Commitment. There are going to be several other camndidates vying for the same jobs you are. How are YOU going to stand out and distinguish yourself as someone who can immediately add value to their company, and someone they absolutely NEED to hire? Weekly blogging is one way to help convey that. In fact, we know of several students whose regular blogging inspired companies to reach out to THEM about jobs!
+1. **Post often.** The more often you post, the better; it shows employers that you are committed to your craft and your new career path, that you are constantly growing your skill set, and you not only have the 'technical'/specialty skills you learned in your program, but you are able to intelligently communicate about those concepts (all desired traits of 'no brainer' hires!). If an employer checking out your online presence (and they will) sees that you are rarely blogging, it tells them that you’re not dedicated and/or you're not keeping the skills sharp and fresh that you graduated with. It may even indicate to employers that you start things, and don’t keep up with them. (And this is not something you want to convey!). That's **WHY** blogging weekly is a key requirement in the Career Services Commitment. There are going to be several other candidates vying for the same jobs you are. How are YOU going to stand out and distinguish yourself as someone who can immediately add value to their company, and someone they absolutely NEED to hire? Weekly blogging is one way to help convey that. In fact, we know of several students whose regular blogging inspired companies to reach out to THEM about jobs!
 
 2. **Quality > quantity.** Yes, it’s important to post often. But don’t just post to post. Always make sure it’s high quality. High quality means that you put thought into the article’s topic, researched the piece (if needed), took time writing the article itself, and then went back to ensure it is polished (without any spelling mistakes!). Flow-wise, your article should begin with an introduction to your topic, followed by your main content/discussion, and then a brief wrap-up/conclusion. This ensures that the article is easy to follow and gives specific value. An example of a high quality blog includes [Jeff Atwood](https://blog.codinghorror.com/). (While it’s a developer-centric blog, the smooth/logical flow and robust, in-depth content make it info packed and of value to readers; things that all blogs should have, whatever your industry focus.)
 
 3. **Show your personality.** When doing so, you always want to keep it relevant to your goals. No one is interested in what you ate for breakfast if you’re trying to become professionally established in a new field. (Now, if you were attempting to become a chef, that would be a whole other story.) There are ways you can reference personal details, while still being helpful/professional at the same time. For instance, check out this article on [Laurence Bradford's blog](http://learntocodewith.me/posts/make-your-website-fast/), where she talks about how to make your website faster. While coding focused, throughout the post she references her own site, experiences and learnings. Doing so gives the blog its own ‘voice’ and personal touch that engages readers, through the writer’s unique perspective. Whatever your industry focus, giving your blog its own voice/personality will help transform it from just words to a shared experience that readers will be eager to be a part of (and will help you build followers/fans over time!).
 
-4. **Provide value for others.** Make sure your posts can help and/or be useful to others. Yes, it’s your blog. But it’s not all about you! If you’re not creating content that can be valuable for others in some way, you’re missing the point. 
+4. **Provide value for others.** Make sure your posts can help and/or be useful to others. Yes, it’s your blog. But it’s not all about you! If you’re not creating content that can be valuable for others in some way, you’re missing the point.
 
 5. **Share your posts elsewhere.** Increase your blog's visibility by sharing posts on your LinkedIn profile (where potential employers and recruiters are looking for a candidate like you!) and Twitter.
 
@@ -54,9 +54,9 @@ As you can see, if you are building/and or practicing regularly to continue to h
 
 You can also use blogging to your advantage during and after job interviews.
 
-During your interview, you can reference it as example of one of your hobbies, or interests. Or cite particular posts you’ve written (if relevant). 
+During your interview, you can reference it as example of one of your hobbies, or interests. Or cite particular posts you’ve written (if relevant).
 
-After your interview, you can use your blog as a way to iron out any hiccups that may have happened during. You can do this by sending a post to your interviewer afterwards. This can work for several reasons. 
+After your interview, you can use your blog as a way to iron out any hiccups that may have happened during. You can do this by sending a post to your interviewer afterwards. This can work for several reasons.
 
 1. Shows that you are committed to excellence and always improving
 
@@ -68,10 +68,10 @@ After your interview, you can use your blog as a way to iron out any hiccups tha
 
 Even if there were no hiccups during your interview, you can still use your blog in your follow-up. For instance, if you haven’t heard from an employer in over a week, including a blog post in your follow-up correspondence is a nice value-add.
 
-## Blogging is What Committed and Passionate Developers Do 
+## Blogging is What Committed and Passionate Developers Do
 
 Blogging is one component of your personal brand. But, unlike having LinkedIn and Twitter accounts, blogging is more involved. Recruiters and hiring managers know this. Ultimately, the level of commitment blogging requires will differentiate you even more from your competition.
 
 You probably already have a blog set up since it is a requirement of the program. If you don't, you can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog) or you can create a blog right on Learn!
 
-Keep blogging and supporting your learning! 
+Keep blogging and supporting your learning!
